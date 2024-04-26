@@ -6,6 +6,9 @@ const dict = {
   AU122Em8qkqegdLb1eyH8rdkSCNEf7RZLeTJve4Q2inRPGiTJ2xNv: "AUtop2stacker",
   AU12NT6c6oiYQhcXNAPRRqDudZGurJkFKcYNLPYSwYkMoEniHv8FW: "AUtop3stacker",
   AS12qzyNBDnwqq2vYwvUMHzrtMkVp6nQGJJ3TETVKF5HCd4yymzJP: "ASCoinvester",
+  AS1wmX9BTcDpp6Hu3tB6tDuMywLWWusNeVuVMxeYaSTBn8rMgqnx:
+    "AS massa casino jackpot",
+  AS12sUv4W3w4nDKnQWnR74TqLVEzK5ThwAqHkkgaHRHYPEyxNK9Sw: "AS massa casino flip",
 };
 
 dictKeys = Object.keys(dict);
